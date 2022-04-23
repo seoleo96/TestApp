@@ -18,7 +18,7 @@ Min API level is set to 21, so the presented approach is suitable for over 94% o
 
 https://user-images.githubusercontent.com/59287789/164882880-021b1e36-8365-4f7c-b11d-cf4b1983ab59.mp4
 
-## Authors
+## Author
 
 **Sarimsakov Sardor**
 
