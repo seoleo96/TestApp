@@ -14,6 +14,14 @@ Min API level is set to 21, so the presented approach is suitable for over 94% o
 -    [Coroutines Flow](https://kotlinlang.org/docs/reference/coroutines-overview.html)  - cold asynchronous data stream that sequentially emits values and completes normally or with an exception
 -   [Koin](https://insert-koin.io/)  - dependency injector for replacement all Factory classes.
 
+## Video of project
+
+<body>
+	<iframe id="my-video" src="https://user-images.githubusercontent.com/59287789/164882880-021b1e36-8365-4f7c-b11d-cf4b1983ab59.mp4
+" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</body>
+https://user-images.githubusercontent.com/59287789/164882880-021b1e36-8365-4f7c-b11d-cf4b1983ab59.mp4
+
 ## Authors
 
 **Sarimsakov Sardor**
